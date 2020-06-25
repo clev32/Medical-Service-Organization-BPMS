@@ -1,1 +1,1 @@
-# Term-Project-Spring-2020
+This is a Java application powered by a SQL backend for Hatzalah Organization that allows them to access the data, insert new records into the database and retrieve information/statistics based on data that has been stored in the database.
