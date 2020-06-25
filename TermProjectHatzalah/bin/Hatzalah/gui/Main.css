@@ -1,0 +1,48 @@
+.root{
+ -fx-background-color: #DCDCDC;
+}
+
+.menu-bar{
+-fx-background-color:SkyBlue;
+
+
+}
+
+#AlertLabel
+{
+-fx-text-fill: red;
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#87ceeb , #808080);
+}
+
+
+.button:hover {
+    -fx-background-color: linear-gradient(#808080, #87ceeb);
+}
+
+.text-field{
+     -fx-border-color: grey;
+}
+
+.grid{
+-fx-border-width:5px;
+-fx-border-color:gray;
+}
+
+.mainLayout{
+   -fx-background-image: url("logo.png");
+   -fx-background-repeat: no-repeat;
+   -fx-background-position: center center;
+   -fx-background-size: 400 400;
+   -fx-background-color: white;
+}
+#branchLbl{
+  -fx-font-size: 20px;
+  -fx-font-weight: bold;
+}
+
